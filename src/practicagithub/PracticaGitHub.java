@@ -18,7 +18,7 @@ public class PracticaGitHub {
         System.out.println("Hola mundo");
         
         //Prueba de merge correcto
-        System.out.println("Merge correcto");
+        System.out.println("Merge modificado desde rama master");
     }
     
 }
